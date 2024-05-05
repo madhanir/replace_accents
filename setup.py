@@ -16,10 +16,15 @@ setup(
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
-        "License :: MIT License",
+        "License :: OSI Approved :: MIT License",
         "Natural Language :: English",
         "Operating System :: OS Independent",
+        "Programming Language :: Cython",
+        "Programming Language :: Python",
+        "Topic :: Scientific/Engineering",
         "Topic :: Software Development :: Libraries",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Topic :: Text Processing",
     ],
     project_urls={
         "Documentation": "https://medium.com/@rahul.madhani/replace-accented-characters-in-python-pyspark-and-spark-sql-28844b6c783e",
