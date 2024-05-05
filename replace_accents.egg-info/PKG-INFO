@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: replace-accents
-Version: 0.0.3
+Name: replace_accents
+Version: 0.0.4
 Summary: This package helps to replace accented characters with their corresponding non-accented ascii characters
 Author: Rahul Madhani
 Author-email: madhani.rahul@gmail.com
@@ -19,6 +19,7 @@ pip install replace_accents
 ```
 
 Let's delve into detailed examples
+
 **1. Python example**
 ```
 # Import the replace accents function
