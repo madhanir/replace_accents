@@ -10,6 +10,7 @@ pip install replace_accents
 ```
 
 Let's delve into detailed examples
+
 **1. Python example**
 ```
 # Import the replace accents function

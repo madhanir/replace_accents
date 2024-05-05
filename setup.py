@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="replace_accents",
-    version="0.0.3",
+    version="0.0.4",
     description="This package helps to replace accented characters with their corresponding non-accented ascii characters",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
